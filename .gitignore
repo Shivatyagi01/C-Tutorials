@@ -1,0 +1,53 @@
+# Ignore VS Code settings
+.vscode/
+
+# Compiled object files
+*.o
+*.obj
+
+# Executables and binaries
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# Debug files
+*.pdb
+*.idb
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Dependency files
+*.d
+
+# Backup and temporary files
+*~
+*.bak
+*.tmp
+*.log
+
+# Editor swap files
+*.swp
+*.swo
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Build system files
+build/
+bin/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+configure
+config.log
+config.status
